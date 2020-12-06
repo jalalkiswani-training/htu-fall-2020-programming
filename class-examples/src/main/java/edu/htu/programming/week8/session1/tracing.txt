@@ -1,0 +1,27 @@
+Code Tracing:
+
+Variables:
+sum=0, 0, 7, 14,19, 38, 41
+i=0, 1 , 2, 3
+n=3
+
+Output:
+Enter number 1: 
+Enter number 2: 
+Enter number 3: 
+
+Input :
+7
+5
+3
+
+===============
+Expected Input
+7
+5
+3
+
+Expected output
+7
+7+7 +5 = 19
+19+19 +3= 41 
