@@ -1,5 +1,7 @@
 package edu.htu.programming.week8.session2;
 
+import edu.htu.programming.week10.session1.MyArrayUtil;
+
 public class Arrays1 {
 	public static void main(String[] args) {
 		//int datatype of each time
@@ -11,10 +13,12 @@ public class Arrays1 {
 		
 		arr[5]=20;
 		System.out.println(arr[0]);
+
+		MyArrayUtil.printArray(arr);	
 		
-		for(int i=0;i<arr.length;i++) {
-			System.out.println("The value at index ["+i+"] is "+arr[i]);			
-		}		
+//		for(int i=0;i<arr.length;i++) {
+//			System.out.println("The value at index ["+i+"] is "+arr[i]);			
+//		}		
 //		System.out.println(arr[1]);
 //		System.out.println(arr[2]);
 //		System.out.println(arr[3]);
