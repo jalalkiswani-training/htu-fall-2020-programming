@@ -1,6 +1,5 @@
 package edu.htu.programming.week13.session1;
 
-import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
