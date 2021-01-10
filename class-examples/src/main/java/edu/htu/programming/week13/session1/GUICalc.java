@@ -55,7 +55,6 @@ public class GUICalc {
 				txtResult.setText(result+"");
 			}
 		});
-		
 		frm.setVisible(true);				
 	}
 }
