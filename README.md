@@ -2,6 +2,4 @@
 
 Hello form programming class
 
--- Uncle Jalal
-
--- [link text itself]: http://www.reddit.co
+Uncle Jalal
